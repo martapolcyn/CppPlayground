@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>copy-24.png</file>
+        <file>cut-32.png</file>
+        <file>remove-32.png</file>
+        <file>open-32.png</file>
+        <file>new-32.png</file>
+        <file>save-30.png</file>
+        <file>paste-24.png</file>
+        <file>close-30.png</file>
+        <file>print-24.png</file>
+        <file>redo-24.png</file>
+        <file>undo-24.png</file>
+    </qresource>
+</RCC>
